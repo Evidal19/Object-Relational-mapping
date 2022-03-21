@@ -1,4 +1,5 @@
 const { Category } = require('../models');
+console.log(Category);
 
 const categoryData = [
   {
