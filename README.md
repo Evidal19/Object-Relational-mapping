@@ -15,8 +15,5 @@ Demonstrating the use of CRUD by applying the GET, POST, PUT and DELETE methods.
 -Node.js
 -Express.js
 
-## Video
-
-
 ## Contributor
 Evidal19
