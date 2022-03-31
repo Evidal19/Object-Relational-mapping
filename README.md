@@ -8,6 +8,7 @@ Demonstrating the use of CRUD by applying the GET, POST, PUT and DELETE methods.
 -npm install sequelize
 -npm nstall myql2
 -npm install express
+-npm install dotenv
 
 ## Built With
 -JavaScript
